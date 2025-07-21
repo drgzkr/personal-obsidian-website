@@ -3,9 +3,9 @@
 ---
 
 
-I'm a computational cognitive neuroscientist and AI researcher exploring how the brain processes continuous, naturalistic information and segments it into meaningful events. 
+I'm a **computational cognitive neuroscientist** and **AI researcher** exploring how the brain processes **continuous, naturalistic** information and segments it into meaningful events. 
 
-My work bridges neuroscience, artificial intelligence, and cognitive psychology to understand the fundamental mechanisms of how we make sense of our complex, ever-changing world.
+My work bridges **neuroscience**, **artificial intelligence**, and **cognitive** **psychology** to understand the fundamental mechanisms of how we make sense of our complex, ever-changing world.
 
 ## [[Website/Science\|Science]]
 
