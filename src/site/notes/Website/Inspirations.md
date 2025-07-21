@@ -2,6 +2,9 @@
 {"dg-publish":true,"permalink":"/website/inspirations/"}
 ---
 
+I like collecting things that make me feel/think things.
+Here, have a look:
+
 ## Quotes
 Here are some quotes I collect for no particular reason:
 
