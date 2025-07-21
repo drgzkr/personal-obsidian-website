@@ -3,12 +3,13 @@
 ---
 
 
-Hi, I'm Dora👋
-Welcome to my website!
+Hi,  **I'm Dora** 👋
+*Welcome to my website!*
 
-[[Website/About\|About]]
-[[Website/Blog\|Blog]]
-[[Website/Quotes\|Inspirations]]
-[[Website/Science\|Science]]
-[[Website/Projects\|Projects]]
+Here you can: 
+- read [[Website/About Me\|About Me]], 
+- read about what I think: [[Website/Blog\|Blog]]
+- have a look at some [[Website/Quotes\|Inspirations]] I collect
+- take a closer look at my [[Website/Science\|Science]] work
+- laugh with me for the content and at me for the execution of my silly [[Website/Projects\|Projects]]
 
