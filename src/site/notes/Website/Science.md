@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/website/science/"}
 ---
 
-Here are some odd projects I've worked on through branches of my research.
+Here are some **odd projects** I've worked on through **branches** of my **research**.
 
 ## [[Science Projects/QPPython\|QPPython]]
 
