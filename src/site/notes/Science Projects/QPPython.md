@@ -39,3 +39,7 @@ The QPP window size is inferred from the shape of the initial QPP template provi
 See more here:
 
 https://github.com/drgzkr/QPPython
+
+and here:
+
+https://colab.research.google.com/drive/13zPfqNZjsMoEvU3zeUjIEppcRAtDOXa4?usp=sharing

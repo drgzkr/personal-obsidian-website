@@ -18,10 +18,10 @@ Here are some quotes I collect for no particular reason:
 
 `For who would bear the whips and scorns of time ... when he himself might his Quietus make.`
 
-`The undiscovered country, from whose bourn  `
-`No traveler returns, puzzles the will,  `
+`The undiscovered country, from whose bourn`
+`No traveler returns, puzzles the will,`
 
-`And makes us rather bear those ills we have,  `
+`And makes us rather bear those ills we have,`
 `Than fly to others that we know not of? `
 
 `Thus conscience does make cowards of us all`
@@ -37,7 +37,85 @@ Here are some quotes I collect for no particular reason:
 (...)`a problem whose queasy horrors will eventually be made world-wide by the sophistication of machines. The problem is this:`(...)
 
 ---
+**Uzun Ince Bir Yoldayim** by *Aşık Veysel*
 
+`Dünyaya geldiğim anda`
+`Yörüdüm aynı zemanda`
+`İki gapılı bir handa`
+`Gediyorum gündüz gece`
+`Gündüz gece, gündüz gece`
+`Gündüz gece, hey`
+
+---
+**Güneşi Beklerken** by *Mor ve Ötesi*
+
+`Bu bedenler biraz sahici`
+`Biraz da renksiz bugün`
+`Yarın yok, yarın neymiş, yarın neymiş`
+
+`Aklının ardında neler yatar bilmem`
+`Karanlığın dibi yok oldu sonunda`
+
+`Hayat ne anlatır neleri gizlerken`
+`Yolunu bilmezsin güneşi beklerken`
+
+---
+ **Aşk İçinde** by *Mor ve Ötesi*
+ 
+`Aşk içinde, yalan içinde`
+`Tek bir ayna, binbir biçimde`
+`Hepsi aynı, hepsi içinde`
+
+`Bugün varsın, yarın yoksun`
+
+---
+**DRAMA KÖPRÜSÜ** by *Anonymous*
+`Mezar taşlarını Hasan, koyun mu sandın?`
+
+`Drama mapusunu Hasan, evin mi sandın?`
+
+---
+**When it Comes Down To It** by *Minnie Riperton*
+
+`When it comes down to it`
+`There'll be dancin' in the night`
+`Cause while the fools who blew it will be hidin' from the light`
+
+---
+**Söyleşi** by *Pir Sultan Abdal*
+
+`Sen bir gümüş çövmen olsan,`
+`Çekip indirmeye gelsen.`
+`Ben bir avuç darı olsam,`
+`Yere saçılsam ne dersin?`
+
+`Sen bir avuç darı olsan,`
+`Yere saçılmaya gelsen.`
+`Ben bir güzel keklik olsam,`
+`Bir bir toplasam ne dersin?`
+
+---
+**Educated Fool** by *Steve Harris*
+
+`Time will flow`
+`And I will follow`
+`Time will go`
+`But I will follow`
+
+`I want to feel what life's like respond`
+`I want to meet my father beyond`
+`I want to walk right into the light  `
+`I want to feel no fear but delight`
+
+`I want to leave my life on my own`
+`I want to lift the unturned stone`
+`I want to walk right into the fire`
+`I want to live out all my desires`
+
+---
+
+
+[https://lyricstranslate.com/tr/ruhi-su-soylesi-lyrics](https://lyricstranslate.com/tr/ruhi-su-soylesi-lyrics)
 ## Music
 You can have a listen to some of what I like to listen to:
 

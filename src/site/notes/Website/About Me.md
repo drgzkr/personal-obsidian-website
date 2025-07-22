@@ -13,7 +13,7 @@ My research focuses on **event segmentation** (how the brain divides continuous 
 
 **Current Research Areas:**
 
-- **Neural Dynamics & Event Processing** - Using fMRI and intracranial recordings to investigate how neural states propagate across brain regions during naturalistic viewing
+- **Neural Dynamics & Event Processing** - Using fMRI to investigate how neural states work across brain regions during naturalistic viewing
 - **Computational Modeling** - Building artificial neural networks to model brain function and test hypotheses about temporal dynamics of neural representations
 - **Memory & Hippocampus** - Exploring how event boundaries influence memory encoding and retrieval during naturalistic experiences
 - **Methodological Innovation** - Developing novel algorithms and data-driven approaches for analyzing continuous neural data
