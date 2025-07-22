@@ -38,6 +38,11 @@ Here are some quotes I collect for no particular reason:
 
 ---
 
+
+
+
+
+
 ## Music
 You can have a listen to some of what I like to listen to:
 

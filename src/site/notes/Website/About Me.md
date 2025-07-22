@@ -9,7 +9,7 @@ My work bridges **neuroscience**, **artificial intelligence**, and **cognitive**
 
 ## [[Website/Science\|Science]]
 
-My research focuses on **event segmentation**—how the brain divides continuous experiences into discrete, meaningful chunks. I've discovered that this process relies on **neural states**: stable patterns of brain activity that coincide with events in the stimuli we encounter. This work represents a significant shift from traditional laboratory-based neuroscience toward understanding how the brain actually functions during real-world experiences.
+My research focuses on **event segmentation** (how the brain divides continuous experiences into discrete, meaningful chunks) and understanding **continuous** **naturalistic** neural activity **across scales**. This work often shifts from traditional tightly-controlled neuroscience toward understanding how the brain actually functions during real-world-like experiences.
 
 **Current Research Areas:**
 
@@ -18,7 +18,7 @@ My research focuses on **event segmentation**—how the brain divides continuous
 - **Memory & Hippocampus** - Exploring how event boundaries influence memory encoding and retrieval during naturalistic experiences
 - **Methodological Innovation** - Developing novel algorithms and data-driven approaches for analyzing continuous neural data
 
-I'm particularly excited about
+I'm particularly excited about... 
 
 ## Education & Training
 
@@ -26,23 +26,24 @@ My academic journey reflects my commitment to bridging disciplines:
 
 **PhD in Cognitive Neuroscience and Artificial Intelligence** | Current  
 
-**MSc in Clinical and Cognitive Neuroscience** | Premium Honor's Programme 
+**MSc in Clinical and Cognitive Neuroscience** |  2018-2020
 
-**BSc in Psychology** | Minor in Bio-Psy & Research via Marble Honor's Programme  
-_Published undergraduate research on neural representations using fMRI_
+**BSc in Psychology** | Minor in Bio-Psy & Research | 2015-2018
 
-This progression from psychology through clinical/cognitive neuroscience to computational neuroscience has given me a unique perspective on brain function, linking the psychological, biological, and the computational principles underlying cognition.
+This progression from psychology through clinical/cognitive neuroscience to computational neuroscience and AI has given me a unique perspective on brain function, linking the psychological, biological, and the computational principles underlying cognition.
 
 ## Teaching & Mentorship
 
-I taught graduate courses like:
+I taught graduate and undergraduate courses like:
 - **Methods and Techniques of Research**, 
 - **Perception**, 
 - **Critical Thinking**,  
+- **History and Foundations of Psychology**,
+- **Body and Behaviour**,
 - **Deep Learning**,
-- **AI for Neurotech**
+- **AI for Neurotech**,
 - 
 
-I've also supervised students on BSc and MSc research projects, mainly focusing on fMRI data, either modelling it with traditional or novel deep learning approaches; or comparing it with artificial neural networks and their internal mechanisms.
+I've also **supervised** students on **BSc** and **MSc** **research** projects, mainly focusing on fMRI data, either modelling it with traditional or novel deep learning approaches; or comparing it with artificial neural networks and their internal mechanisms.
 ## My Vision - Why I do what I do
 
