@@ -113,7 +113,28 @@ Here are some quotes I collect for no particular reason:
 `I want to live out all my desires`
 
 ---
+**Şarkı Söylemek Lazım** by *Sezen Aksu*
 
+Hayat zorlaşınca  
+Çıkmaz sokaklarda soluksuz kalınca  
+Azalınca manadan  
+Seyyar sevdalar da parçalanınca  
+Dil yetmeyince  
+Göz görmeyince, gönül hissetmeyince  
+Kırılınca, camdan kalp  
+Dönüp yalnızla kilitlenince
+
+O zaman şarkı söylemek lazım avaz avaz  
+O zaman şarkı söylemeli çığlık çığlığa  
+O zaman yüreğin yükü hafifler belki biraz  
+O zaman şarkı söylemek lazım avaz avaz
+
+Dert bitmeyince  
+Bildiğin çektiğine yetmeyince  
+Düşmanın da kendini yakalayınca  
+Bir daha kin gütmeyince
+
+---
 
 [https://lyricstranslate.com/tr/ruhi-su-soylesi-lyrics](https://lyricstranslate.com/tr/ruhi-su-soylesi-lyrics)
 ## Music
