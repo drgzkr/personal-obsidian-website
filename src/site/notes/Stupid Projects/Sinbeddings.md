@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/stupid-projects/sinbeddings/"}
 ---
 
-
 ## What?
 
 See the sin trajectory of any sequence of events.
@@ -13,7 +12,7 @@ The dimensions are also interpreted based on which sin is loaded in them to char
 Play with it by giving it biographies, or known literary texts, or your own stories.
 
 ![Pasted image 20250722151723.png](/img/user/Pasted%20image%2020250722151723.png)
-
+![Pasted image 20250722155707.png](/img/user/Pasted%20image%2020250722155707.png)
 ---
 
 
