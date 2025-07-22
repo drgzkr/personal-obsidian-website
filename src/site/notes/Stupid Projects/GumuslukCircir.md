@@ -14,8 +14,7 @@ One morning, I was reading on the balcony, and was accompanied by a few of these
 Here are some simple analysis done on that recording that takes a closer look at the cicada song at a very basic level.
 
 ---
-
-Here are some figures:
+## Some resulting figures...
 
 **MFCC of the audio**
 ![Untitled.png|400](/img/user/Untitled.png)

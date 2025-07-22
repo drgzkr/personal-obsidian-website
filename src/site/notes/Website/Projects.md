@@ -69,26 +69,6 @@ Here are some simple analysis done on that recording that takes a closer look at
 
 ---
 
-Here are some figures:
-
-**MFCC of the audio**
-![Untitled.png|400](/img/user/Untitled.png)
-
-**Some processing...**
-![Untitled 1.png|500](/img/user/Untitled%201.png)
-
-**Some processing zoomed in...**
-![Untitled 4.png|500](/img/user/Untitled%204.png)
-
-**Simple temporal characteristics...** 
-![Untitled 3.png|300](/img/user/Untitled%203.png)
-
-You can check the notebook for details:
-
-https://colab.research.google.com/drive/155cOa_UTWLd2UxtfXnM8tfmujoJI3o9H?usp=sharing
-
-
-
 </div></div>
 
 
