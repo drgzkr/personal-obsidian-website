@@ -8,7 +8,7 @@ This notebook was born out of boredom and curiosity during my short vacation in 
 Several cicadas were around the house of my friend who hosted a group of us for a week, who were quite chatty (both us and the cicadas).
 Here is one which joined us during one of our card playing sessions:
 
-![Untitled.jpeg|200](/img/user/Untitled.jpeg)
+![Untitled.jpeg|200](/img/user/Untitled.jpeg)|![Untitled 4.png|320](/img/user/Untitled%204.png)
 
 One morning, I was reading on the balcony, and was accompanied by a few of these loud high-chitin friends. I decided to ignore their privacy and recorded them without their consent.
 Here are some simple analysis done on that recording that takes a closer look at the cicada song at a very basic level.
