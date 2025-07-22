@@ -38,13 +38,10 @@ Here are some quotes I collect for no particular reason:
 
 ---
 
-
-
-
-
-
 ## Music
 You can have a listen to some of what I like to listen to:
+
+---
 
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/album/6r17TPLNFTrPtKOUCDpo9w?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
@@ -59,9 +56,133 @@ You can have a listen to some of what I like to listen to:
 Have a look at what I enjoy looking at:
 
 ---
-# Truth Coming Out of Her Well
+### Truth Coming Out of Her Well
 by *[Jean-Léon Gérôme](https://en.wikipedia.org/wiki/Jean-L%C3%A9on_G%C3%A9r%C3%B4me)*
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Jean_L%C3%A9on_Gerome_1896_La_V%C3%A9rit%C3%A9_sortant_du_puits.JPG/500px-Jean_L%C3%A9on_Gerome_1896_La_V%C3%A9rit%C3%A9_sortant_du_puits.JPG)
 
 ---
+### A Monkey
+by *Mao Song?*
 
+![|500](https://img.getdailyart.com/84826/conversions/782ThOI6aG_retina-iPad.jpg)
+
+---
+
+### Drawings of the Moon
+by *[Galileo Galilei](https://en.wikipedia.org/wiki/Galileo_Galilei)*
+
+![](https://vitruvio.imss.fi.it/foto/galileopalazzostrozzi/41529_450.jpg)
+
+---
+
+### The Nap
+by *[Gustave Caillebotte](https://en.wikipedia.org/wiki/Gustave_Caillebotte)*
+
+![](https://uploads7.wikiart.org/images/gustave-caillebotte/the-nap.jpg!Large.jpg)
+
+---
+
+### The Garden of Death
+by *[Hugo Simberg](https://en.wikipedia.org/wiki/Hugo_Simberg)*
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Hugo_Simberg_Garden_of_Death.jpg/500px-Hugo_Simberg_Garden_of_Death.jpg)
+
+---
+
+### Port of Trieste
+by *[Egon Schiele](https://en.wikipedia.org/wiki/Egon_Schiele)*
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Schiele_Hafen-triest.jpg/960px-Schiele_Hafen-triest.jpg?20081202191936)
+
+---
+
+### Diogenes
+by *[Jean-Léon Gérôme](https://en.wikipedia.org/wiki/Jean-L%C3%A9on_G%C3%A9r%C3%B4me)*
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Jean-L%C3%A9on_G%C3%A9r%C3%B4me_-_Diogenes_-_Walters_37131.jpg/1200px-Jean-L%C3%A9on_G%C3%A9r%C3%B4me_-_Diogenes_-_Walters_37131.jpg)
+
+---
+
+### The Ghost of a Flea
+by *[William Blake](https://en.wikipedia.org/wiki/William_Blake)*
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/William_Blake_002.jpg/800px-William_Blake_002.jpg)
+
+---
+
+### Landscape near Montfoort
+by *[Leo Gestel](https://en.wikipedia.org/wiki/Leo_Gestel)*
+
+![](https://krollermuller.nl/media/cache/collection_item_detail_small/media/collectionitempage/tmsImage/landschap-nabij-montfoort-leo-gestel-44258-copyright-kroller-muller-museum.jpg?1a90d9fba093)
+
+---
+
+### Poppyheads
+by *[Koloman Moser](https://en.wikipedia.org/wiki/Koloman_Moser)*
+
+![](https://www.artic.edu/iiif/2/71550262-862a-d19a-680b-f50a2e284901/full/1686,/0/default.jpg)
+
+---
+
+### Shooting Stars
+by *[Franz von Stuck](https://en.wikipedia.org/wiki/Franz_von_Stuck)*
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Sternschnuppen.jpg/1090px-Sternschnuppen.jpg?20210922233645)
+
+---
+
+### Be Cheerful Enjoy Your Life
+by ?? *from Antakya Archaeology Museum*
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Antakya_Archaeology_Museum_Skeleton_mosaic_sept_2019_5915.jpg/1200px-Antakya_Archaeology_Museum_Skeleton_mosaic_sept_2019_5915.jpg?20221012073624)
+
+
+---
+
+### Blue Irises
+by *[Ohara Koson](https://en.wikipedia.org/wiki/Ohara_Koson)*
+
+![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGVuI3v1rKCoHVDebv4sr2ncgGV1muNsUT2w&s)
+
+---
+### Owl
+by *[Ohara Koson](https://en.wikipedia.org/wiki/Ohara_Koson)*
+
+![](https://woodblock-print.eu/images/stories/virtuemart/product/J005_Koson_web.jpg)
+
+---
+
+### The Sun
+by *[Edward Munch](https://en.wikipedia.org/wiki/Edvard_Munch)*
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Edvard_Munch_-_The_Sun_%281911%29.jpg/1200px-Edvard_Munch_-_The_Sun_%281911%29.jpg?20150116222524)
+
+---
+
+### The Pine Tree at Saint Tropez
+
+by *[Paul Signac](https://en.wikipedia.org/wiki/Paul_Signac)*
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Paul_Signac%2C_1909%2C_The_Pine_Tree_at_Saint_Tropez%2C_oil_on_canvas%2C_72_x_92_cm%2C_Pushkin_Museum%2C_Moscow.jpg/1280px-Paul_Signac%2C_1909%2C_The_Pine_Tree_at_Saint_Tropez%2C_oil_on_canvas%2C_72_x_92_cm%2C_Pushkin_Museum%2C_Moscow.jpg)
+
+---
+
+### Bond of Union
+by *[M.C. Escher](https://en.wikipedia.org/wiki/M._C._Escher)*
+
+![](https://artlogic-res.cloudinary.com/w_4000,h_4000,c_limit,f_auto,fl_lossy,q_auto/artlogicstorage/brucesilverstein/images/view/b72b022200894dafca73f785027bdb0ej/brucesilverstein-m.c.-escher-bond-of-union-1956.jpg)
+
+
+---
+### Day and Night
+by *[M.C. Escher](https://en.wikipedia.org/wiki/M._C._Escher)*
+
+![](https://upload.wikimedia.org/wikipedia/en/e/e8/Day_and_Night_%28Escher%29_PMA.jpg)
+
+---
+### Rippled Surface
+by *[M.C. Escher](https://en.wikipedia.org/wiki/M._C._Escher)*
+
+![](https://uploads6.wikiart.org/images/m-c-escher/rippled-surface.jpg!Large.jpg)
+
+---
