@@ -4,9 +4,12 @@
 
 Here are some **odd projects** I've worked on through **branches** of my **research**.
 
+---
 ## fMRI Basics on Colab
+
 This notebook has basic tools for fMRI analysis with Python
 https://colab.research.google.com/drive/1GqsibJftyPEucJNVwbNeupLqJlBG21h3?usp=sharing
+
 ---
 ## [[Science Projects/QPPython\|QPPython]]
 
