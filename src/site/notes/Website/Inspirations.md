@@ -9,6 +9,16 @@ Here, have a look:
 Here are some quotes I collect for no particular reason:
 
 ---
+**Uzun Ince Bir Yoldayim** by *Aşık Veysel*
+
+`Dünyaya geldiğim anda`
+`Yörüdüm aynı zemanda`
+`İki gapılı bir handa`
+`Gediyorum gündüz gece`
+`Gündüz gece, gündüz gece`
+`Gündüz gece, hey`
+
+---
 **Hamlet** by the *Bard of Avon*
 
 `Or to take arms against a sea of troubles,` 
@@ -35,16 +45,6 @@ Here are some quotes I collect for no particular reason:
 **God Bless You, Mr. Rosewater** by *Kurt Vunnegut*
 
 (...)`a problem whose queasy horrors will eventually be made world-wide by the sophistication of machines. The problem is this:`(...)
-
----
-**Uzun Ince Bir Yoldayim** by *Aşık Veysel*
-
-`Dünyaya geldiğim anda`
-`Yörüdüm aynı zemanda`
-`İki gapılı bir handa`
-`Gediyorum gündüz gece`
-`Gündüz gece, gündüz gece`
-`Gündüz gece, hey`
 
 ---
 **Güneşi Beklerken** by *Mor ve Ötesi*
@@ -279,3 +279,38 @@ by *[M.C. Escher](https://en.wikipedia.org/wiki/M._C._Escher)*
 ![](https://uploads6.wikiart.org/images/m-c-escher/rippled-surface.jpg!Large.jpg)
 
 ---
+### Diagonal
+by *Me*
+
+![PXL_20250723_120208659.MP~3.jpg|500](/img/user/PXL_20250723_120208659.MP~3.jpg)
+
+---
+### Sun Strip
+by *Me*
+
+![PXL_20250723_120257727~2.jpg|500](/img/user/PXL_20250723_120257727~2.jpg)
+---
+
+## Video Games
+
+I'm telling you, you **HAVE TO** play these:
+
+Classics (it's never too late):
+- Portal
+- Bioshock
+- The Stanley Parable
+- Beginners Guide
+- Binding of Isaac
+- Super Hexagon
+- Undertale
+- Disco Elysium
+- The Forgotten City
+- Talos Principle
+- Hellblade Senua's Sacrifice
+- Keep Talking and Nobody Explodes
+- 
+
+Classics to be:
+- Chants of Senaar
+- Patricks Parabox
+- Baba is You
