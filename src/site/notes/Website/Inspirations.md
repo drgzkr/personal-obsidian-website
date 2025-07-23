@@ -71,7 +71,6 @@ Here are some quotes I collect for no particular reason:
 ---
 **DRAMA KÖPRÜSÜ** by *Anonymous*
 `Mezar taşlarını Hasan, koyun mu sandın?`
-
 `Drama mapusunu Hasan, evin mi sandın?`
 
 ---
@@ -115,28 +114,23 @@ Here are some quotes I collect for no particular reason:
 ---
 **Şarkı Söylemek Lazım** by *Sezen Aksu*
 
-Hayat zorlaşınca  
-Çıkmaz sokaklarda soluksuz kalınca  
-Azalınca manadan  
-Seyyar sevdalar da parçalanınca  
-Dil yetmeyince  
-Göz görmeyince, gönül hissetmeyince  
-Kırılınca, camdan kalp  
-Dönüp yalnızla kilitlenince
+`Çıkmaz sokaklarda soluksuz kalınca`
+`Azalınca manadan`
+`Dil yetmeyince, Göz görmeyince, gönül hissetmeyince`
+`Kırılınca, camdan kalp`
+`Dönüp yalnızlığa kilitlenince`
+`Dert bitmeyince`
+`Bildiğin çektiğine yetmeyince`
+`Düşmanında kendini yakalayınca`
+`Bir daha kin gütmeyince`
 
-O zaman şarkı söylemek lazım avaz avaz  
-O zaman şarkı söylemeli çığlık çığlığa  
-O zaman yüreğin yükü hafifler belki biraz  
-O zaman şarkı söylemek lazım avaz avaz
+`O zaman şarkı söylemek lazım avaz avaz`
+`O zaman şarkı söylemeli çığlık çığlığa`
+`O zaman yüreğin yükü hafifler belki biraz`
+`O zaman şarkı söylemek lazım avaz avaz`
 
-Dert bitmeyince  
-Bildiğin çektiğine yetmeyince  
-Düşmanın da kendini yakalayınca  
-Bir daha kin gütmeyince
 
 ---
-
-[https://lyricstranslate.com/tr/ruhi-su-soylesi-lyrics](https://lyricstranslate.com/tr/ruhi-su-soylesi-lyrics)
 ## Music
 You can have a listen to some of what I like to listen to:
 
