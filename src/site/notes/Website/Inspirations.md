@@ -289,6 +289,7 @@ by *Me*
 by *Me*
 
 ![PXL_20250723_120257727~2.jpg|500](/img/user/PXL_20250723_120257727~2.jpg)
+
 ---
 
 ## Video Games
