@@ -112,7 +112,9 @@ This is a small paper I wrote for a MSc course, and I like it. I don't have the 
 
 ---
 
-I have a close interested in:
+## You know what?
+
+I also have very close and academic interests in:
 - ANN interpretability
 	- I think the neuroscience background gives me the right tools and frameworks to understand ANN models and their internal 'cognition' computationally. Naturally, I'm interested in feature space trajectories and general representational computations of cognition, both in AI models and in biological brains. I'm interested in various kinds of models, from CNNs to AEs to LLMs.
 	- Naturally, I'm also interested if/when/how we might need to consider ANNs and their 'experiences'... (please don't get scared, I know what I'm talking about)

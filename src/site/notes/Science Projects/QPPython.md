@@ -38,8 +38,37 @@ The QPP window size is inferred from the shape of the initial QPP template provi
 ---
 See more here:
 
-https://github.com/drgzkr/QPPython
+<div class="rich-link-card-container"><a class="rich-link-card" href="https://github.com/drgzkr/QPPython" target="_blank">
+	<div class="rich-link-image-container">
+		<div class="rich-link-image" style="background-image: url('https://github.com/fluidicon.png')">
+	</div>
+	</div>
+	<div class="rich-link-card-text">
+		<h1 class="rich-link-card-title">GitHub - drgzkr/QPPython: Python implementation of the core functionality of;  QPPLab: A generally applicable software package for detecting, analyzing, and visualizing large-scale quasiperiodic spatiotemporal patterns (QPPs) of brain activity  published here: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10557593/  and maintained here: https://github.com/GT-EmoryMINDlab/QPP</h1>
+		<p class="rich-link-card-description">
+		Python implementation of the core functionality of;  QPPLab: A generally applicable software package for detecting, analyzing, and visualizing large-scale quasiperiodic spatiotemporal patterns (QPP...
+		</p>
+		<p class="rich-link-href">
+		https://github.com/drgzkr/QPPython
+		</p>
+	</div>
+</a></div>
 
 and here:
 
-https://colab.research.google.com/drive/13zPfqNZjsMoEvU3zeUjIEppcRAtDOXa4?usp=sharing
+<div class="rich-link-card-container"><a class="rich-link-card" href="https://colab.research.google.com/drive/13zPfqNZjsMoEvU3zeUjIEppcRAtDOXa4?usp=sharing" target="_blank">
+	<div class="rich-link-image-container">
+		<div class="rich-link-image" style="background-image: url('https://colab.research.google.com/img/colab_favicon_256px.png')">
+	</div>
+	</div>
+	<div class="rich-link-card-text">
+		<h1 class="rich-link-card-title">Google Colab</h1>
+		<p class="rich-link-card-description">
+		
+		</p>
+		<p class="rich-link-href">
+		https://colab.research.google.com/drive/13zPfqNZjsMoEvU3zeUjIEppcRAtDOXa4?usp=sharing
+		</p>
+	</div>
+</a></div>
+

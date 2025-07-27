@@ -7,7 +7,7 @@ Hi,  **I'm Dora** 👋
 *Welcome to my website!*
 
 Here you can: 
-- read [[Website/About Me\|About Me]], 
+- read [[Website/About Me\|about me]], 
 - read about what I [[Website/Blog\|think]],
 - have a look at some [[Website/Inspirations\|inspirations]] I collect,
 - take a closer look at my [[Website/Science\|science]] work,
