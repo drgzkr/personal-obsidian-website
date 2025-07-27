@@ -8,10 +8,10 @@ Hi,  **I'm Dora** 👋
 
 Here you can: 
 - read [[Website/About Me\|About Me]], 
-- read about what I think: [[Website/Blog\|Blog]]
-- have a look at some [[Website/Inspirations\|Inspirations]] I collect
-- take a closer look at my [[Website/Science\|Science]] work
-- laugh with me for the content and at me for the execution of my silly [[Website/Projects\|Projects]]
+- read about what I [[Website/Blog\|think]],
+- have a look at some [[Website/Inspirations\|inspirations]] I collect,
+- take a closer look at my [[Website/Science\|science]] work,
+- laugh with me for the content and at me for the execution of some of my [[Website/Projects\|silly projects]]
 
 Do you want to **contact** me?
 Weird... 
