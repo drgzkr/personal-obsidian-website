@@ -80,16 +80,6 @@ https://colab.research.google.com/drive/16TkQXS8wqkoVg47df1RvOw8B9TmYyjUs?usp=sh
 
 
 ---
-
-
-
-
----
-## Frequencies, Phases, Harmonics, Discrete States, State Transitions, Criticality, and More...
-
-
-
----
 ## Communicative Interpretive Intermediations (A.K.A. Language) and Brain to Brain Interfaces
 
 This is a small paper I wrote for a MSc course, and I like it. I don't have the energy to revise and build on it to make an actual publishable work out of it, but I would like interested minds to read it and engage with it. Have a look if you are curious:
@@ -111,24 +101,28 @@ This is a small paper I wrote for a MSc course, and I like it. I don't have the 
 </a></div>
 
 ---
-
-## You know what?
+## You know what else?
 
 I also have very close and academic interests in:
 - **ANN interpretability**
 	- I think my neuroscience background gives me the right tools and frameworks to understand ANN models and their internal 'cognition', computationally. Naturally, I'm interested in feature space trajectories and general representational computations of cognition, both in AI models and in biological brains. I'm interested in various kinds of models, from CNNs to AEs to LLMs.
-	- Naturally, I'm also interested if/when/how we might need to consider ANNs and their 'experiences'... (please don't get scared, I know what I'm talking about)
-- **Hierarchical Cognition and Computation**
+	- Most recent examples I'm working around are:
+		- https://www.sciencedirect.com/science/article/pii/S0896627322000058
+		- Hierarchical cognition and computation
+		- The analogy between positional encoding vectors in transformers and grid cells in brains
+	- Naturally, I'm also interested if/when/how we might need to reconsider ANNs and their 'experiences'... (please don't get scared, I know what I'm talking about)
+
 - **Big Science**
 	- I have a multitude of intense feelings towards the future of science in light of ANNs: 
-		- *terror*,
-		- *marvel*,
-		- *FOMO*,
-		- *humility*,
-		- *hope*,
+		- *terror*
+		- *marvel*
+		- *FOMO*
+		- *humility*
+		- *hope*
 		- *despair*...
-	- I want to be involved in LLM driven science, either understanding, mapping, generating; or even executing and reviewing.
-	- HMU if you know someone... this can't be done on an individuals budget 😢 (i tried making a cute and fun 'artsy' scientific paper generator back in 2021. now we have people doing this:)
+	- I want to be involved in LLM driven science, either understanding, mapping, synthesizing; or even generating, executing, and reviewing.
+	- HMU if you know someone... this can't be done on an individuals budget 😢 (i tried making a cute and fun 'artsy' scientific paper generator back in 2022. Now we have people doing this publicly: https://arxiv.org/pdf/2408.06292. **God knows what is happening in well funded private labs...**)
+
 - **Education, but like, genuinely**
 	- LLMs gave me the excuse to try my rebellious educational ideas. For a course I was coordinating and TAing, I structured the assessments so that students would grade their own assignments based on the effort they thought they gave to them. They were not expected to submit right answers. LLMs could do that for them. Instead, they were expected to try their own answers, and if they didn't understand how they would go about doing that, to clearly write what information they though they were missing or did not understand. The workgroup sessions were then when we discussed answers or confusions, without any assessment/grading stress. 
 	- [[Website/About Me#Teaching\|Problem based learning (PBL)]] is very effortful for both the educator and the students (well that's mostly the point anyway), and LLMs can help bring its principles to self-study and autodidaction. We could build amazing tools for learners of all ages/levels.

@@ -47,7 +47,7 @@ with varying capacities.
 I've also **supervised** students on **BSc** and **MSc** **research** projects, ranging from traditional and/or  deep learning modelling of fMRI data (or comparing it with artificial neural networks and their internal mechanisms) to automating behavior detection from video data.
 
  I've been fortunate to go through almost all of my higher education with **problem based learning (PBL)** at both ends of the teaching/learning journey. I stand by its principles and think they offer a very solid set of heuristics to teach how to learn. 
-## My Vision - Why I do what I do
+## My Vision
 
 Honestly, I'm very confused...
 
