@@ -32,7 +32,7 @@ Here are some quotes I collect for no particular reason:
 `No traveler returns, puzzles the will,`
 
 `And makes us rather bear those ills we have,`
-`Than fly to others that we know not of? `
+`Than fly to others that we know not of.`
 
 `Thus conscience does make cowards of us all`
 
@@ -47,7 +47,7 @@ Here are some quotes I collect for no particular reason:
 (...)`a problem whose queasy horrors will eventually be made world-wide by the sophistication of machines. The problem is this:`(...)
 
 ---
-**Güneşi Beklerken** by *Mor ve Ötesi*
+**Güneşi Beklerken** by *Harun Tekin*
 
 `Bu bedenler biraz sahici`
 `Biraz da renksiz bugün`
@@ -60,7 +60,7 @@ Here are some quotes I collect for no particular reason:
 `Yolunu bilmezsin güneşi beklerken`
 
 ---
- **Aşk İçinde** by *Mor ve Ötesi*
+ **Aşk İçinde** by *Harun Tekin*
  
 `Aşk içinde, yalan içinde`
 `Tek bir ayna, binbir biçimde`
@@ -101,22 +101,11 @@ Here are some quotes I collect for no particular reason:
 `Time will go`
 `But I will follow`
 
-`I want to feel what life's like respond`
-`I want to meet my father beyond`
-`I want to walk right into the light  `
-`I want to feel no fear but delight`
-
-`I want to leave my life on my own`
-`I want to lift the unturned stone`
-`I want to walk right into the fire`
-`I want to live out all my desires`
-
 ---
 **Şarkı Söylemek Lazım** by *Sezen Aksu*
 
-`Çıkmaz sokaklarda soluksuz kalınca`
 `Azalınca manadan`
-`Dil yetmeyince, Göz görmeyince, gönül hissetmeyince`
+`Dil yetmeyince, göz görmeyince, gönül hissetmeyince`
 `Kırılınca, camdan kalp`
 `Dönüp yalnızlığa kilitlenince`
 `Dert bitmeyince`
@@ -126,9 +115,6 @@ Here are some quotes I collect for no particular reason:
 
 `O zaman şarkı söylemek lazım avaz avaz`
 `O zaman şarkı söylemeli çığlık çığlığa`
-`O zaman yüreğin yükü hafifler belki biraz`
-`O zaman şarkı söylemek lazım avaz avaz`
-
 
 ---
 ## Music

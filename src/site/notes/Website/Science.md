@@ -115,20 +115,20 @@ This is a small paper I wrote for a MSc course, and I like it. I don't have the 
 ## You know what?
 
 I also have very close and academic interests in:
-- ANN interpretability
-	- I think the neuroscience background gives me the right tools and frameworks to understand ANN models and their internal 'cognition' computationally. Naturally, I'm interested in feature space trajectories and general representational computations of cognition, both in AI models and in biological brains. I'm interested in various kinds of models, from CNNs to AEs to LLMs.
+- **ANN interpretability**
+	- I think my neuroscience background gives me the right tools and frameworks to understand ANN models and their internal 'cognition', computationally. Naturally, I'm interested in feature space trajectories and general representational computations of cognition, both in AI models and in biological brains. I'm interested in various kinds of models, from CNNs to AEs to LLMs.
 	- Naturally, I'm also interested if/when/how we might need to consider ANNs and their 'experiences'... (please don't get scared, I know what I'm talking about)
-- Hierarchical Cognition and Computation
-- Big Science
+- **Hierarchical Cognition and Computation**
+- **Big Science**
 	- I have a multitude of intense feelings towards the future of science in light of ANNs: 
-		- terror,
-		- marvel,
-		- FOMO,
-		- humility,
-		- hope,
-		- despair...
+		- *terror*,
+		- *marvel*,
+		- *FOMO*,
+		- *humility*,
+		- *hope*,
+		- *despair*...
 	- I want to be involved in LLM driven science, either understanding, mapping, generating; or even executing and reviewing.
 	- HMU if you know someone... this can't be done on an individuals budget 😢 (i tried making a cute and fun 'artsy' scientific paper generator back in 2021. now we have people doing this:)
-- Education, but like, genuinely
-	- LLMs gave me the excuse to try my rebellious educational ideas. For a course I was coordinating and TAing, I tried structuring the assessments so that students would grade their own assignments based on the effort they thought they gave to them. They were not expected to submit right answers. LLMs could do that for them. Instead, they were expected to try their own answers, and if they didn't understand how they would go about doing that, to clearly write what information they though they were missing or did not understand. The workgroup sessions were then when we discussed answers or confusions, without any assessment/grading stress. 
-	- I've been fortunate to go through almost all of my higher education with problem based learning (PBL). I stand by its principles, at both ends of the teaching journey. It is very effortful for both the educator and the students though (well thats mostly the point anyway), and LLMs can help bring its principles to self-study and autodidaction. We could build amazing tools for learners of all ages.
+- **Education, but like, genuinely**
+	- LLMs gave me the excuse to try my rebellious educational ideas. For a course I was coordinating and TAing, I structured the assessments so that students would grade their own assignments based on the effort they thought they gave to them. They were not expected to submit right answers. LLMs could do that for them. Instead, they were expected to try their own answers, and if they didn't understand how they would go about doing that, to clearly write what information they though they were missing or did not understand. The workgroup sessions were then when we discussed answers or confusions, without any assessment/grading stress. 
+	- [[Website/About Me#Teaching\|Problem based learning (PBL)]] is very effortful for both the educator and the students (well that's mostly the point anyway), and LLMs can help bring its principles to self-study and autodidaction. We could build amazing tools for learners of all ages/levels.
