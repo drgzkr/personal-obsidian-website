@@ -51,3 +51,22 @@ I've also **supervised** students on **BSc** and **MSc** **research** projects, 
 
 Honestly, I'm very confused...
 
+## CV
+
+Can't promise this is up to date, but here is one...
+<div class="rich-link-card-container"><a class="rich-link-card" href="https://docs.google.com/document/d/1dl3VlWClQ1oAh8ykqRZLKz7AQmGIrUe2I5_aU2oQy9U/edit?usp=sharing" target="_blank">
+	<div class="rich-link-image-container">
+		<div class="rich-link-image" style="background-image: url('https://ssl.gstatic.com/docs/documents/images/kix-favicon-2023q4.ico')">
+	</div>
+	</div>
+	<div class="rich-link-card-text">
+		<h1 class="rich-link-card-title">Resume-Dora Gozukara</h1>
+		<p class="rich-link-card-description">
+		Resume - Dora Gozukara Personal Information https://orcid.org/0009-0009-2391-9670 https://github.com/drgzkr doragozukara@hotmail.com https://drgzkr-website.vercel.app/ +31650278407 Vossendijk 115  6534TK Nijmegen, Netherlands Education and Employment 2020-Present PhD student at the Donders Instit...
+		</p>
+		<p class="rich-link-href">
+		https://docs.google.com/document/d/1dl3VlWClQ1oAh8ykqRZLKz7AQmGIrUe2I5_aU2oQy9U/edit?usp=sharing
+		</p>
+	</div>
+</a></div>
+
