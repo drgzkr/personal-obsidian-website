@@ -53,7 +53,9 @@ Honestly, I'm very confused...
 
 ## CV
 
-Can't promise this is up to date, but here is one...
+They might be slightly out of date but;
+
+Here is my CV:
 <div class="rich-link-card-container"><a class="rich-link-card" href="https://docs.google.com/document/d/1dl3VlWClQ1oAh8ykqRZLKz7AQmGIrUe2I5_aU2oQy9U/edit?usp=sharing" target="_blank">
 	<div class="rich-link-image-container">
 		<div class="rich-link-image" style="background-image: url('https://ssl.gstatic.com/docs/documents/images/kix-favicon-2023q4.ico')">
@@ -69,4 +71,6 @@ Can't promise this is up to date, but here is one...
 		</p>
 	</div>
 </a></div>
+
+and here is a TLDR version:
 

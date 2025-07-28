@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/website/projects/"}
 ---
 
-
+ 
 Here are some **silly** projects I make whenever I'm **bored** or **procrastinating**.
 They are **meant for a laugh**, so don't take them **seriously**...
 
@@ -21,8 +21,8 @@ The dimensions are also interpreted based on which sin is loaded in them to char
 
 Play with it by giving it biographies, or known literary texts, or your own stories.
 
-![Pasted image 20250722151723.png|400](/img/user/Pasted%20image%2020250722151723.png)
-![Pasted image 20250722155707.png|400](/img/user/Pasted%20image%2020250722155707.png)
+![Pasted image 20250722151723.png|500](/img/user/Pasted%20image%2020250722151723.png)
+![Pasted image 20250722155707.png|500](/img/user/Pasted%20image%2020250722155707.png)
 ---
 
 
@@ -70,3 +70,31 @@ Here are some simple analysis done on that recording that takes a closer look at
 </div></div>
 
 
+## [[Stupid Projects/Football State Segmentation\|Football State Segmentation]]
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/stupid-projects/football-state-segmentation/#what" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+## What?
+
+I wanted to see if I could take raw football tracking data (just the x/y coordinates of players and the ball) and carve it up into meaningful “states” of play. Not tactics per se, just recurring spatial configurations that show up again and again, hidden in the flow.
+
+The notebook loads one half of a match, does some light cleaning, centers everything around the team’s center of mass (so positions are comparable across time), and then uses GSBS (a state segmentation method from neuroimaging) to chop the game into temporally coherent chunks.
+
+You get:
+- a cleaned and downsampled 2D array of movement features
+- a correlation-based template of the “average” state
+- time segments that align with sharp shifts in overall spatial pattern
+- visualizations of transitions between states: some matrices, timelines, chord plots
+
+I didn't have the time (but more importantly the motivation) to pursue this further, but it looks like a promising approach. 
+
+Of course, if one wants to go about doing something similar, training recurrent deep learning models or transformers on this data would surely perform better.
+
+![Pasted image 20250728221453.png|400](/img/user/Pasted%20image%2020250728221453.png)
+![Untitled 5.png|400](/img/user/Untitled%205.png)
+
+---  
+
+</div></div>
