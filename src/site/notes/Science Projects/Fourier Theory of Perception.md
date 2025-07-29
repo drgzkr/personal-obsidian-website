@@ -29,6 +29,9 @@ The notebook tries to poke at whether a Fourier-based representation of visual i
 
 Take movie frames --> compute their 2D FFTs --> massage and mask the frequency domain in different ways --> run linear (and ridge) regressions --> see how well those features can predict voxel-level time series from human brain recordings.
 
+**The Hypothesis:**  
+The brain’s visual system encodes information in the frequency domain, and a representation based on Fourier components of visual input can linearly predict brain activity in early and mid-level visual regions better than or comparably to pixel level or deep learning-derived features.  
+This suggests that perceptual processing may fundamentally operate over structured bands in frequency space (analogous to how k-space is used in MRI) rather than purely spatial layouts or hierarchical features.
 ### What Actually Happens
 
 - Movie frames are preprocessed and converted to grayscale and resized.
