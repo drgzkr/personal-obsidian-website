@@ -98,3 +98,36 @@ Of course, if one wants to go about doing something similar, training recurrent 
 ---  
 
 </div></div>
+
+
+# Idea Drafts
+
+These are unattempted and poorly though-through darfts. 
+Please don't steal them 🙏 
+Thank you 😇
+
+## [[Stupid Projects/BrainLamp\|BrainLamp]]
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/stupid-projects/brain-lamp/#what" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+## What?
+
+By using smt like [this](https://community.mrtrix.org/t/connectome-node-mesh-visualisation-problem/1571/13) connectome visualization tool of MRtrix, build a 3d model of the brain with areas connected with realistic WM simplifications.
+
+Smt like this, but transparent and simpler:
+
+![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXc2B4ZZOj_6_qtkcGmtkvRNYqhdzKc7IF1l8KfEe8XqCgI3TyrIHsSD9OfEBahI8f2Y1MrS1tW-vXNG2nm3gNTlREcz1UDkpsvBMsIkTYhvQyUijZ9wgeJrJxYGgCFxYJGFG7kPpraLLwu5hDcAQNVFT-hl?key=vpIcQv8PgR9wCy0vi8o6Og)
+
+  
+
+- Run LED filaments along the tubes and in the hollow ROIs 
+- Get resting state data and construct 1 functional connectivity sweep loop to play on the brain.
+- Assign different colors for different functional networks, combine colors where necessary by blending them into each other.
+- Activate LEDs based on the created loop.
+- Dance.
+
+
+</div></div>
