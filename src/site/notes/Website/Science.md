@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/website/science/"}
 ---
 
-Here are some **odd projects** I've worked on through **branches** of my **research**.
+Here are some **side projects/tools** I've worked on through **branches** of my **research**.
 Perhaps I'll also share the kitchen side of the papers I'm working on in the future...
 
 ---
@@ -83,22 +83,7 @@ https://colab.research.google.com/drive/16TkQXS8wqkoVg47df1RvOw8B9TmYyjUs?usp=sh
 ## Communicative Interpretive Intermediations (A.K.A. Language) and Brain to Brain Interfaces
 
 This is a small paper I wrote for a MSc course, and I like it. I don't have the energy to revise and build on it to make an actual publishable work out of it, but I would like interested minds to read it and engage with it. Have a look if you are curious:
-
-<div class="rich-link-card-container"><a class="rich-link-card" href="https://docs.google.com/document/d/1Q5Y49cY1s4veYPyvTIDfG_rNk0JlPrUf/edit?usp=sharing&ouid=112645292736462517674&rtpof=true&sd=true" target="_blank">
-	<div class="rich-link-image-container">
-		<div class="rich-link-image" style="background-image: url('https://ssl.gstatic.com/docs/documents/images/kix-favicon-2023q4.ico')">
-	</div>
-	</div>
-	<div class="rich-link-card-text">
-		<h1 class="rich-link-card-title">DoraGözükara_i6110205_Timing Neural Processing With EEG and MEG_2019_FPN.docx</h1>
-		<p class="rich-link-card-description">
-		EEG Based Non-Invasive Brain to Brain Interfaces: State of the art human computer interfaces with a clumsy last step Dora Gözükara i6110205 Faculty of Psychology and Neuroscience Timing of Neural Processing with EEG and MEG Fren Smulders Spring 2019 Maastricht Abstract Brain to br...
-		</p>
-		<p class="rich-link-href">
-		https://docs.google.com/document/d/1Q5Y49cY1s4veYPyvTIDfG_rNk0JlPrUf/edit?usp=sharing&ouid=112645292736462517674&rtpof=true&sd=true
-		</p>
-	</div>
-</a></div>
+[Here](https://docs.google.com/document/d/1Q5Y49cY1s4veYPyvTIDfG_rNk0JlPrUf/edit?usp=sharing&ouid=112645292736462517674&rtpof=true&sd=true)
 
 ---
 ## You know what else?
@@ -120,7 +105,7 @@ I also have very close and academic interests in:
 		- *humility*
 		- *hope*
 		- *despair*...
-	- I want to be involved in LLM driven science, either understanding, mapping, synthesizing; or even generating, executing, and reviewing.
+	- I want to be involved in LLM driven big science, either understanding, mapping, synthesizing; or even generating, executing, and reviewing.
 	- HMU if you know someone... this can't be done on an individuals budget 😢 (i tried making a cute and fun 'artsy' scientific paper generator back in 2022. Now we have people doing this publicly: https://arxiv.org/pdf/2408.06292. **God knows what is happening in well funded private labs...**)
 
 - **Education, but like, genuinely**
