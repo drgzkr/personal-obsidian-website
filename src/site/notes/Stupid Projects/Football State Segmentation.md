@@ -28,22 +28,4 @@ Of course, if one wants to go about doing something similar, training recurrent 
 
 ![Untitled 7.png|250](/img/user/Untitled%207.png) | ![Untitled 8.png|250](/img/user/Untitled%208.png)
 
-notebook is here:
-<div class="rich-link-card-container"><a class="rich-link-card" href="https://colab.research.google.com/drive/1jlKluk1uOt9MESNtB_2sMJRGnb3DfatH?usp=sharing" target="_blank">
-	<div class="rich-link-image-container">
-		<div class="rich-link-image" style="background-image: url('https://colab.research.google.com/img/colab_favicon_256px.png')">
-	</div>
-	</div>
-	<div class="rich-link-card-text">
-		<h1 class="rich-link-card-title">Google Colab</h1>
-		<p class="rich-link-card-description">
-		
-		</p>
-		<p class="rich-link-href">
-		https://colab.research.google.com/drive/1jlKluk1uOt9MESNtB_2sMJRGnb3DfatH?usp=sharing
-		</p>
-	</div>
-</a></div>
-
-
-
+notebook is [here](https://colab.research.google.com/drive/1jlKluk1uOt9MESNtB_2sMJRGnb3DfatH?usp=sharing):
