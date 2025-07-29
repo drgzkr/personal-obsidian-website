@@ -16,13 +16,14 @@ They are **meant for a laugh**, so don't take them **seriously**...
 
 See the sin trajectory of any sequence of events.
 Given a text with multiple sentences, an LLM codes each sentence based on how much of which 7 sin is present. 
-The dashboard then visualizes the sib-journey of the text with an animated radar plot and state space trajectory made up of 2 principal components of the whole sinbedding timeline.
+The dashboard then visualizes the sin journey of the text with an animated radar plot and state space trajectory made up of 2 principal components of the whole sinbedding timeline.
 The dimensions are also interpreted based on which sin is loaded in them to characterize a unique sin-space for the text.
 
 Play with it by giving it biographies, or known literary texts, or your own stories.
 
 ![Pasted image 20250722151723.png|500](/img/user/Pasted%20image%2020250722151723.png)
 ![Pasted image 20250722155707.png|500](/img/user/Pasted%20image%2020250722155707.png)
+
 ---
 
 
