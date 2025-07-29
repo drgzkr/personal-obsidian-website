@@ -10,7 +10,7 @@ I didn't touch it for a long time, and then heard it from [Katja](https://seelik
 
 I then played with the idea more operationally and made [this](https://colab.research.google.com/drive/1WkukBkBrAt8xgoCK2eSwvA-KtOtfIrKl?usp=sharing) exploratory notebook out of it.
 
-**BEWARE:** The notebook is very hastily made and was not iterated on further for corrections and checks. The data it uses is *very* limited and the whole idea and pipeline needs serious rethinking. I suspect there might be some issues with the parameter space, regularization, and model architectures. Definitely needs a cleaner start. 
+**BEWARE:** The notebook is an early prototype, and thus lacks validation. The data it uses is *very* limited and the whole idea and pipeline needs serious rethinking. I suspect there might be some issues with the parameter space, regularization, and model architectures. Definitely needs a cleaner start. 
 
 Nevertheless, here are some pretty figures to look at:
 
