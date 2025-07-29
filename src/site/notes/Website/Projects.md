@@ -102,7 +102,7 @@ Of course, if one wants to go about doing something similar, training recurrent 
 
 # Idea Drafts
 
-These are unattempted and poorly though-through darfts. 
+These are unatempted and poorly though-through darfts. 
 Please don't steal them 🙏 
 Thank you 😇
 
