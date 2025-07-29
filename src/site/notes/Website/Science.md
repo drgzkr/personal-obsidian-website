@@ -86,6 +86,62 @@ This is a small paper I wrote for a MSc course, and I like it. I don't have the 
 [Here](https://docs.google.com/document/d/1Q5Y49cY1s4veYPyvTIDfG_rNk0JlPrUf/edit?usp=sharing&ouid=112645292736462517674&rtpof=true&sd=true)
 
 ---
+
+# Unattempted Projects
+
+## [[Science Projects/Wittgenstein and Representational Similarity\|Wittgenstein and Representational Similarity]]
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/science-projects/wittgenstein-and-representational-similarity/#what" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+## What?
+
+A concept I’ve been chewing on: drawing a formal bridge between Wittgenstein’s late philosophy of language. specifically his notion of family resemblances. and how we now study neural representations in cognitive neuroscience using tools like Representational Similarity Analysis (RSA).
+
+Put simply: I think there’s a useful and underappreciated **isomorphism** between **the way meaning emerges in language (according to Wittgenstein)** and the way meaning or content is **encoded in distributed neural population codes.**
+
+It’s still a rough idea, but I’d like to polish it into a short perspective or opinion paper. The goal is to sketch a common conceptual language for discussing high-level semantics (philosophy of language) and low-level neurocomputational implementation (brain activity patterns), with RSA as the bridge.
+
+---
+
+
+</div></div>
+
+
+
+## [[Science Projects/Fourier Theory of Perception\|Fourier Theory of Perception]]
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/science-projects/fourier-theory-of-perception/#what" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+## What?
+This is a very old idea (see [here](https://pubmed.ncbi.nlm.nih.gov/11430239/)). I myself started suspecting something like this might be a very clean framework to understand perception (and perhaps other cognitive phenomena) more closely than contemporary neuroscience gives credit to, when I was going through a course on MRI and learning about how MRI images are reconstructed via the k-space. I also thought perception working through the frequency space both in audition via the cochlea, and vision via spatial frequency selective cells made the idea much more compelling.
+
+I didn't touch it for a long time, and then heard it from [Katja](https://seelikat.github.io/)!
+
+I then played with the idea more operationally and made [this](https://colab.research.google.com/drive/1WkukBkBrAt8xgoCK2eSwvA-KtOtfIrKl?usp=sharing) exploratory notebook out of it.
+
+**BEWARE:** The notebook is very hastily made and was not iterated on further for corrections and checks. The data it uses is *very* limited and the whole idea and pipeline needs serious rethinking. I suspect there might be some issues with the parameter space, regularization, and model architectures. Definitely needs a cleaner start. 
+
+Nevertheless, here are some pretty figures to look at:
+
+
+![Untitled 9.png](/img/user/Untitled%209.png)
+
+![Untitled 10.png|250](/img/user/Untitled%2010.png)
+
+---
+
+
+
+</div></div>
+
+
+
+--- 
 ## You know what else?
 
 I also have very close and academic interests in:

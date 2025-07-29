@@ -24,11 +24,9 @@ On top of these, I'm also excited [[Website/Science#You know what?\|about]]...
 
 My academic journey looks smt like this:
 
-**PhD in Cognitive Neuroscience and Artificial Intelligence** | Ongoing  
-
-**MSc in Clinical and Cognitive Neuroscience** |  2018-2020
-
-**BSc in Psychology**  *(minor in Bio-Psy & Research)* | 2015-2018
+- **PhD in Cognitive Neuroscience and Artificial Intelligence** | Ongoing
+- **MSc in Clinical and Cognitive Neuroscience** |  2018-2020
+- **BSc in Psychology**  *(minor in Bio-Psy & Research)* | 2015-2018
 
 This progression from psychology through clinical/cognitive neuroscience to computational neuroscience and AI has given me a unique perspective on brain function, linking the psychological, biological, and the computational principles underlying cognition.
 
