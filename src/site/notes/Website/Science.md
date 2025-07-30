@@ -97,7 +97,7 @@ This is a small paper I wrote for a MSc course, and I like it. I don't have the 
 
 ## What?
 
-A concept I’ve been chewing on: drawing a formal bridge between Wittgenstein’s late philosophy of language. specifically his notion of family resemblances. and how we now study neural representations in cognitive neuroscience using tools like Representational Similarity Analysis (RSA).
+A concept I’ve been chewing on: drawing a formal bridge between Wittgenstein’s late philosophy of language, specifically his notion of family resemblances, and how we now study neural representations in cognitive neuroscience using tools like Representational Similarity Analysis (RSA).
 
 Put simply: I think there’s a useful and underappreciated **isomorphism** between **the way meaning emerges in language (according to Wittgenstein)** and the way meaning or content is **encoded in distributed neural population codes.**
 
@@ -162,7 +162,7 @@ I also have very close and academic interests in:
 		- *hope*
 		- *despair*...
 	- I want to be involved in LLM driven big science, either understanding, mapping, synthesizing; or even generating, executing, and reviewing.
-	- HMU if you know someone... this can't be done on an individuals budget 😢 (i tried making a cute and fun 'artsy' scientific paper generator back in 2022. Now we have people doing this publicly: https://arxiv.org/pdf/2408.06292. **God knows what is happening in well funded private labs...**)
+	- HMU if you know someone... this can't be done on an individuals budget 😢 For example [this](https://www.semanticscholar.org/paper/Synthesis-Insights-from-Scienti-fi-c-Literature-via-Kim-Huang/bbd0d4f44d5f1e3ca5fa333f9002aca6e9c701f1?p2df) work is already almost a decade old. I tried making a cute and fun 'artsy' scientific paper generator back in 2022. Now we have people doing this publicly: https://arxiv.org/pdf/2408.06292. **God knows what is happening in well funded private labs...**
 
 - **Education, but like, genuinely**
 	- LLMs gave me the excuse to try my rebellious educational ideas. For a course I was coordinating and TAing, I structured the assessments so that students would grade their own assignments based on the effort they thought they gave to them. They were not expected to submit right answers. LLMs could do that for them. Instead, they were expected to try their own answers, and if they didn't understand how they would go about doing that, to clearly write what information they though they were missing or did not understand. The workgroup sessions were then when we discussed answers or confusions, without any assessment/grading stress. 

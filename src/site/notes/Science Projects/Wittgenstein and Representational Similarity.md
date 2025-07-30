@@ -5,7 +5,7 @@
 
 ## What?
 
-A concept I’ve been chewing on: drawing a formal bridge between Wittgenstein’s late philosophy of language. specifically his notion of family resemblances. and how we now study neural representations in cognitive neuroscience using tools like Representational Similarity Analysis (RSA).
+A concept I’ve been chewing on: drawing a formal bridge between Wittgenstein’s late philosophy of language, specifically his notion of family resemblances, and how we now study neural representations in cognitive neuroscience using tools like Representational Similarity Analysis (RSA).
 
 Put simply: I think there’s a useful and underappreciated **isomorphism** between **the way meaning emerges in language (according to Wittgenstein)** and the way meaning or content is **encoded in distributed neural population codes.**
 
