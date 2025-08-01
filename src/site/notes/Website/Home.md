@@ -13,6 +13,6 @@ Here you can:
 - take a closer look at my [[Website/Science\|science]] work,
 - laugh with me for the content and at me for the execution of some of my [[Website/Projects\|silly projects]]
 
-Do you want to **contact** me?
+Do you want to **[[Website/Contact\|contact]]** me?
 Weird... 
 You can usually reach me via `doragozukara@hotmail.com`
