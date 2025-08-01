@@ -117,6 +117,22 @@ Here are some quotes I collect for no particular reason:
 `O zaman şarkı söylemeli çığlık çığlığa`
 
 ---
+
+**Clint Eastwood** by *Del the Funky Homosapien*
+
+`The essence, the basics without did you make it?`
+`Allow me to make this childlike in nature`
+`Rhythm, you have it or you don't`
+`That's a fallacy, I'm in them`
+`Every sprouting tree, every child of peace`
+`Every cloud and sea`
+
+`y'all can see me now`
+`'Cause you don't see with your eye`
+`You perceive with your mind`
+`that's the inner`
+
+--- 
 ## Music
 You can have a listen to some of what I like to listen to:
 

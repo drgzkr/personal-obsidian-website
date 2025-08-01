@@ -69,7 +69,7 @@ Has horrible implementation, but is convenient. I don't know what I'm doing and 
 
 Naturalistic Video Segmentation using vgg19 Features
 This notebook saves the individual frames of given videos, extracts selected vgg19 layer features for each frame for each video and creates feature timeseries, and lastly plots the difference between each frames features on a timeline.
-There are certain anomalies, and reasons and solutions are discussed at the end.
+There are certain anomalies about the specific video used, and reasons and solutions are discussed at the end.
 
 More at:
 https://colab.research.google.com/drive/16TkQXS8wqkoVg47df1RvOw8B9TmYyjUs?usp=sharing
