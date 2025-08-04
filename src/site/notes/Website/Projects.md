@@ -154,6 +154,6 @@ There are 2 main use cases I currently have in mind:
 Especially educationally, it would be important to have student queries and histories + some analytics. Would be cool to build the base year by year, so course LLMs get better and better. Could implement RLFH. It's also important to have control over what the model is and what it knows etc. This will surely involve fine-tuning models.
 
 Could also lead to agent architecture explorations...
-
+See more [here]()
 
 </div></div>
