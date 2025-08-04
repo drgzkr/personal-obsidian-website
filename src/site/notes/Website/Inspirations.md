@@ -69,7 +69,7 @@ Here are some quotes I collect for no particular reason:
 `Bugün varsın, yarın yoksun`
 
 ---
-**DRAMA KÖPRÜSÜ** by *Anonymous*
+**Drama Köprüsü** by *Anonymous*
 `Mezar taşlarını Hasan, koyun mu sandın?`
 `Drama mapusunu Hasan, evin mi sandın?`
 
@@ -120,12 +120,11 @@ Here are some quotes I collect for no particular reason:
 
 **Clint Eastwood** by *Del the Funky Homosapien*
 
-`The essence, the basics without did you make it?`
+`The essence, the basics, without did you make it?`
 `Allow me to make this childlike in nature`
 `Rhythm, you have it or you don't`
 `That's a fallacy, I'm in them`
-`Every sprouting tree, every child of peace`
-`Every cloud and sea`
+`Every sprouting tree, every child of peace, every cloud and sea`
 
 `y'all can see me now`
 `'Cause you don't see with your eye`

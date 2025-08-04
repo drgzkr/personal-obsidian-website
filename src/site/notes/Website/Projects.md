@@ -131,3 +131,29 @@ Smt like this, but transparent and simpler:
 
 
 </div></div>
+
+
+
+---
+
+## [[Stupid Projects/ExplorerLLM\|ExplorerLLM]]
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/stupid-projects/explorer-llm/#what" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+## What?
+
+I need to host my own LLMs.
+I've been complaining about closed systems having too much information on and off me. and have been talking big about how universities and teaching institutions need to take things in their own hands; so I'm starting to put my money where my mouth is.
+
+There are 2 main use cases I currently have in mind:
+- Personal
+- Educational
+
+Especially educationally, it would be important to have student queries and histories + some analytics. Would be cool to build the base year by year, so course LLMs get better and better. Could implement RLFH. It's also important to have control over what the model is and what it knows etc. This will surely involve fine-tuning models.
+
+Could also lead to agent architecture explorations...
+
+
+</div></div>
